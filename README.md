@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Selenium automation project is designed to test various functions of the Jira issue tracking system. The goal is to streamline Jira testing, increase test coverage, and ensure product quality.
+This Behaviour Driven Development(BDD) automation project is designed to test login page of a webshop site. The goal is show how to work the test automation in BDD, with Cucumber and Selenium.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
