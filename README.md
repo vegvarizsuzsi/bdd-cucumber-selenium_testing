@@ -8,7 +8,7 @@
 ![logo](https://github.com/vegvarizsuzsi/bdd-cucumber-selenium_testing/blob/main/cucumber-selenium-logo.jpeg)
 
 <h2 align="center">BDD Test Automation Mini Project</h2>
-<h3 align="center">Testing Login Page</h2>
+<h3 align="center">Testing a Login Page</h2>
 
 </div>
 
